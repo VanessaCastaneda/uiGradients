@@ -1,5 +1,10 @@
 [
     {
+        "name": "IgniteX",
+        "colors": ["#e91890", "#9953fb"]
+    },
+    
+    {
         "name": "Sea Blue",
         "colors": ["#2b5876", "#4e4376"]
     },
